@@ -74,7 +74,7 @@ node src/server.js
 }
 
 ## Por que usar embedding y referencing
-El Embedding mejora el rendimiento de lectura porque todos los datos relevantes se almacenan en el mismo documento, lo que permite acceder a toda la información relevante con una sola consulta. También promueve la coherencia de los datos al mantener todo en un solo lugar y simplifica las consultas sobre datos a los que se accede con frecuencia de forma conjunta. El referencing mejora el rendimiento de escritura y la escalabilidad al mantener los documentos pequeños y autónomos, evitando la redundancia y permitiendo estructuras de datos más normalizadas, lo que facilita las actualizaciones de los datos compartidos. Se utilizo tambien esto ya que es uyua practica de la escuela y es el tema que estamos aprendiendo. Se puede mejorar aun mas.
+El Embedding mejora el rendimiento de lectura porque todos los datos relevantes se almacenan en el mismo documento, lo que permite acceder a toda la información relevante con una sola consulta. También ayuda a la coherencia de los datos al mantener todo en un solo lugar y simplifica las consultas sobre datos a los que se accede con frecuencia de forma conjunta. El referencing mejora el rendimiento de escritura y la escalabilidad al mantener los documentos pequeños y autónomos, evitando la redundancia y permitiendo estructuras de datos más normalizadas, lo que facilita las actualizaciones de los datos compartidos. Se utilizo tambien esto ya que es una practica de la escuela y es el tema que estamos aprendiendo. Se puede mejorar aun mas.
 ## Authors
 
 👤 Emmanuel Chavez
